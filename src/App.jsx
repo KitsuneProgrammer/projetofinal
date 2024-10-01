@@ -5,7 +5,9 @@ function App (){
     <Box
     width="
     "
-    ></Box>
+    >
+      test
+    </Box>
   )
 }
 export default App
