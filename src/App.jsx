@@ -3,10 +3,17 @@ import {Box} from '@mui/material'
 function App (){
   return (
     <Box
-    width="
-    "
+    width="100%"
+    height="100vh"
+    bgcolor="purple"
     >
-      test
+      <Box
+      width="45%"
+      height="100%"
+      bgcolor="cyan"
+      >
+
+    </Box>
     </Box>
   )
 }
