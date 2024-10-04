@@ -1,19 +1,26 @@
-import {Box} from '@mui/material'
+import { Box } from '@mui/material'
 
-function App (){
+function App() {
   return (
     <Box
-    width="100%"
-    height="100vh"
-    bgcolor="purple"
+      width="100%"
+      height="100vh"
+      bgcolor="purple"
     >
       <Box
-      width="45%"
-      height="100%"
-      bgcolor="cyan"
+        height="10%"
+        width="100%"
+        bgcolor="cyan"
       >
+        <Box
+        heigt="40px"
+        width="40px"
+        bgcolor="black"
+        
+        >
 
-    </Box>
+        </Box>
+      </Box>
     </Box>
   )
 }
