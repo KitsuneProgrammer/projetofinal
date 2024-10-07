@@ -12,14 +12,12 @@ function App() {
         width="100%"
         bgcolor="cyan"
       >
-        <Box
-        heigt="40px"
-        width="40px"
-        bgcolor="black"
-        
-        >
-
-        </Box>
+       <Box
+       bgcolor="withe"
+       height="10%"
+       width="100%"
+       >
+        </Box> 
       </Box>
     </Box>
   )
